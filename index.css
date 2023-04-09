@@ -1,0 +1,178 @@
+.card-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 210px;
+  height: 188px;
+}
+.div,
+.movement {
+  position: absolute;
+  top: 188px;
+  letter-spacing: 0.2em;
+  display: inline-block;
+}
+.movement {
+  left: 114px;
+  width: 78px;
+  height: 16.16px;
+}
+.div {
+  left: 0;
+  text-align: left;
+  width: 25px;
+  height: 16px;
+}
+.card-1-child,
+.card-2 {
+  position: absolute;
+  top: 0;
+}
+.card-2 {
+  left: 184px;
+  width: 210px;
+  height: 204.16px;
+}
+.card-1-child {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 162px;
+  height: 188px;
+}
+.quiet-place {
+  position: absolute;
+  top: 188px;
+  left: 77px;
+  letter-spacing: 0.2em;
+}
+.card-1,
+.div1 {
+  left: 0;
+}
+.card-1,
+.div1,
+.sliders {
+  position: absolute;
+}
+.div1 {
+  top: 188px;
+  letter-spacing: 0.2em;
+}
+.card-1 {
+  top: 0;
+  width: 163px;
+  height: 204px;
+  text-align: left;
+}
+.sliders {
+  top: 149px;
+  left: 13px;
+  width: 394px;
+  height: 204.16px;
+  text-align: right;
+}
+.recent-works,
+.shop,
+.works {
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2em;
+}
+.recent-works {
+  position: absolute;
+  top: 118px;
+  left: 13px;
+  color: var(--text);
+}
+.shop,
+.works {
+  position: relative;
+  font-family: var(--font-inter);
+  text-align: right;
+}
+.works {
+  color: var(--active);
+}
+.shop {
+  color: var(--disabled);
+}
+.nav {
+  position: absolute;
+  top: 27px;
+  right: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.logo-child {
+  top: 26px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 130px;
+  height: 31px;
+}
+.logo,
+.logo-child,
+.o,
+.s,
+.xt {
+  position: absolute;
+}
+.o {
+  top: 0;
+  left: 128px;
+  font-family: var(--font-klee-one);
+}
+.s,
+.xt {
+  top: 16px;
+  left: 160px;
+}
+.xt {
+  left: 98px;
+}
+.logo {
+  top: -8px;
+  left: -75px;
+  width: 177px;
+  height: 70px;
+  font-size: var(--font-size-29xl);
+  color: var(--active);
+  font-family: var(--font-long-cang);
+}
+.navigation-child,
+.navigation-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 140px;
+  height: 5px;
+}
+.navigation-item {
+  background-color: var(--text);
+  width: 40px;
+}
+.navigation {
+  position: absolute;
+  top: 393px;
+  left: 13px;
+  width: 140px;
+  height: 5px;
+}
+.iphone-14-pro-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--disabled);
+  font-family: var(--font-roboto-slab);
+}

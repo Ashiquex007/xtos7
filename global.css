@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-long-cang: "Long Cang";
+  --font-klee-one: "Klee One";
+  --font-inter: Inter;
+  --font-roboto-slab: "Roboto Slab";
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --text: #5d5d5d;
+  --disabled: #545454;
+  --color-gainsboro: #d9d9d9;
+  --active: #242424;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+}
